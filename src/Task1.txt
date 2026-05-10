@@ -1,0 +1,12 @@
+DFS Traversal Order:
+A → C → B → E → G → F → D
+
+Trace:
+A
+A → C
+A → C → B
+A → C → B → E
+A → C → B → E → G
+A → C → B → E → G → F
+Backtrack
+Visit D

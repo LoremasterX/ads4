@@ -1,0 +1,8 @@
+BFS Traversal Order:
+A → C → B → D → E → G → F
+
+Trace:
+Start with A
+Visit C, B, D
+Visit E, G
+Visit F

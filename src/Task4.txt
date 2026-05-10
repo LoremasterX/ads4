@@ -1,0 +1,7 @@
+Shortest Path:
+Edinburgh → Perth → Dundee
+
+Distance:
+43 + 22 = 65
+
+Shortest distance = 65
